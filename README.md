@@ -1,2 +1,2 @@
 # MCP-Server
-Created via MCP GitHub serve
+Created via MCP GitHub server
