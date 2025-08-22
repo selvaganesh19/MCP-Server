@@ -1,6 +1,6 @@
 # 📡 MCP-Server
 
-**MCP-Server** is a server project created via the MCP GitHub server. It serves as a foundation for managing and running MCP-based applications efficiently. -----------------------------
+**MCP-Server** is a server project created via the MCP GitHub server. It serves as a foundation for managing and running MCP-based applications efficiently. ---------------------------
 
 ---
 
